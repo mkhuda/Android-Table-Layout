@@ -2,6 +2,10 @@
 Android XML Project with Table Layout Example
 
 Translate (INA - ENG):
-Baris Pertama is First Row
-Baris Kedua is Second Row
-Baris Ketiga is Third Row
+
+1-Baris Pertama is First Row
+
+2-Baris Kedua is Second Row
+
+3-Baris Ketiga is Third Row
+
